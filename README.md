@@ -1,0 +1,1 @@
+# AbgabeJannis_MaschinelleEigenschaftsanalyse
