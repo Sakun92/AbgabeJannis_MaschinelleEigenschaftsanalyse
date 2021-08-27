@@ -11,7 +11,7 @@ Unsere Aufgabe daraufhin war, dass wir diese Segmente mit Hilfe des von Herrn Pr
 Mit Hilfe dieses Programms bzw. dieser Programme haben die Studierenden die Segmente ihrer eigenen Aufnahme nach der jeweiligen Valenz annotiert und gelabelt. Wie bereits oben erwähnt, habe ich das für mich als die jeweilige Positivität definiert und dementsprechend meine Labels gesetzt.
 
 Daraufhin entstand eine CSV-Datei, also eine Datei, in welcher die Werte durch Kommas separiert werden. Mit der sogenannten labels.txt Datei habe ich dann mittels Jupyter Notebook weitergearbeitet.
-Dies kann man hier finden [implemented here](Sprechstile_maschinelle_Eigenschaftsanalyse_Nellesen.ipynb).
+Dies kann man hier finden in meinem [Haupt-Notebook](Sprechstile_maschinelle_Eigenschaftsanalyse_Nellesen.ipynb).
 
 Hier wird alles genauestens analysiert und grafisch dargestellt. Schlussendlich wurden diese Inhalte sogar statistisch ausgewertet. Als eigene Leistung wurden die einzelnen Arbeitsschritte genauestens mittels Markdown kommentiert, damit man mein Verständnis der Arbeitsschritte nachvollziehen kann.
 Auch wurden am Ende kleine grafische Repräsentationen als Eigenleistung hinzugefügt, welche zeigen sollen, dass der Inhalt und die Befehle prinzipiell verstanden wurden.
@@ -23,7 +23,7 @@ Mit Hilfe der PraatScripts von Prof. Dr. David R. Feinberg, Lehrender an der McM
 Nachdem wir uns fast das ganze Semester mit der Einführung in Jupyter Notebook, Python und Pandas, sowie mit der Analyse unserer eigenen Stimme bzw. Rede beschäftigt hatten, wollten wir uns nun auch mit den Reden bzw. den analysierten Werten der anderen Studierenden auseinander setzen.
 Dementsprechend haben alle Student*innen ihre Dataframes als Pickle-Datei abgespeichert und diese in die Cloud geladen. Die Studierenden wurden dazu angeleitet, alle Dataframes auf einmal herunterzuladen. Dabei gab es einige Anlaufschwierigkeiten. Manche Studierenden haben ihre Dataframes erst nachträglich hinzugefügt. Auch hatten einige Fehler bei der Analyse ihrer eigenen Stimme begangen, sodass bei einigen Studierenden bestimmte Analyseparameter fehlten. Bestimmte Parameter wie bspw. "JitterPCA" oder "ShimmerPCA" funktionierten bei relativ vielen nicht. Beispielsweise auch bei Herrn Prof. Dr. Burkhardt. Die Befehle, welche diese Werte ermitteln sollten, wurden dann extra in den früher erwähnten PraatSkripts von Feinberg auskommentiert, sodass das Notebook ohne Fehler durchlaufen konnte. Dementsprechend fehlten diese Parameter bei einigen Studierenden.
 
-Den weiteren Verlauf der Analyse der Stimmen bzw. Reden von allen Teilnehmenden kann man sich im folgenden Notebook anschauen [implemented here](all_dataframes.ipynb)
+Den weiteren Verlauf der Analyse der Stimmen bzw. Reden von allen Teilnehmenden kann man sich im folgenden Notebook anschauen [Analyse von allen Teilnehmenden](all_dataframes.ipynb)
 Als Eigenleistung wurden hier ebenfalls die Zeilen mittels Markdown kommentiert und schlussendlich eigene grafische Repräsentationen hinzugefügt. Somit kann angezeigt werden, dass der vermittelte Inhalt verstanden wurde und nicht einfach nur kopiert und abgegeben wurde.
 
 Resümierend kann man sagen, dass in diesem Seminar unglaublich viele neue Inhalte gelernt wurden. Sei es die Arbeit mit Jupyter Notebook, Grundzüge von Python und Pandas und sogar die Arbeit mit Repositorys wit GitHub. Die Ergebnisse der Analyse empfand ich persönlich nicht als überraschend, dennoch war es ideal um diese Grundlagen zu lernen.
