@@ -10,7 +10,7 @@ Unsere Aufgabe daraufhin war, dass wir diese Segmente mit Hilfe des von Herrn Pr
 
 Mit Hilfe dieses Programms bzw. dieser Programme haben die Studierenden die Segmente ihrer eigenen Aufnahme nach der jeweiligen Valenz annotiert und gelabelt. Wie bereits oben erwähnt, habe ich das für mich als die jeweilige Positivität definiert und dementsprechend meine Labels gesetzt.
 
-Daraufhin entstand eine CSV-Datei, also eine Datei, in welcher die Werte durch Kommas separiert werden. Mit der sogenannten labels.txt Datei habe ich dann mittels Jupyter Notebook weitergearbeitet.
+Daraufhin entstand eine CSV-Datei, also eine Datei, in welcher die Werte durch Kommas separiert werden. Mit der sogenannten labels.txt-Datei habe ich dann mittels Jupyter Notebook weitergearbeitet.
 Dies ist hier in meinem [Haupt-Notebook](Sprechstile_maschinelle_Eigenschaftsanalyse_Nellesen.ipynb) ersichtlich.
 
 Hier wird auch alles analysiert und grafisch dargestellt. Schlussendlich wurden die Inhalte sogar statistisch ausgewertet. Als eigene Leistung wurden die einzelnen Arbeitsschritte genauestens mittels Markdown kommentiert, damit man mein Verständnis der Arbeitsschritte nachvollziehen kann.
@@ -26,4 +26,4 @@ Dementsprechend haben alle Student*innen ihre Dataframes als Pickle-Datei abgesp
 Den weiteren Verlauf der Analyse der Stimmen bzw. Reden von allen Teilnehmenden kann man sich im  [Analyse von allen Teilnehmenden-Notebook](all_dataframes.ipynb) anschauen.
 Als Eigenleistung wurden hier ebenfalls die Zeilen mittels Markdown kommentiert und schlussendlich eigene grafische Repräsentationen hinzugefügt. Somit kann angezeigt werden, dass der vermittelte Inhalt verstanden wurde und nicht einfach nur kopiert und abgegeben wurde.
 
-Resümierend kann man sagen, dass in diesem Seminar unglaublich viele neue Inhalte gelernt wurden. Sei es die Arbeit mit Jupyter Notebook, Grundzüge von Python und Pandas und sogar die Arbeit mit Repositorys wit GitHub. Die Ergebnisse der Analyse empfand ich persönlich nicht als überraschend, dennoch war es ideal um diese Grundlagen zu lernen.
+Resümierend kann man sagen, dass in diesem Seminar unglaublich viele neue Inhalte gelernt wurden. Sei es die Arbeit mit Jupyter Notebook, Grundzüge von Python und Pandas und sogar die Arbeit mit Repositorys wie die  bei GitHub. Die Ergebnisse der Analyse empfand ich persönlich nicht als überraschend, dennoch war es ideal um diese Grundlagen zu lernen.
